@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Institute for Applied Microeconomics, University of Bonn
+    url: https://www.econ.uni-bonn.de/iame/en
 education:
   courses:
     - course: Dr.rer.pol (PhD equivalent) in Economics
