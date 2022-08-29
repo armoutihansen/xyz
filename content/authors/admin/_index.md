@@ -31,7 +31,7 @@ education:
   courses:
     - course: Dr.rer.pol (PhD equivalent) in Economics
       institution: University of Cologne
-      year: 2019
+      year: 2022
     - course: M.Sc. in International Economics and Public Policy
       institution: JGU Mainz
       year: 2014
