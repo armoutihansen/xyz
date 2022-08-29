@@ -1,8 +1,9 @@
 ---
 title: Jesper Armouti-Hansen
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Postdoctoral Researcher
+bio: My research interests are in the fields of Choice and Decision Theory,
+  Behavioral and Experimental Economics, Behavioral Contract Theory and Machine
+  Learning.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -28,22 +29,21 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Dr.rer.pol (PhD equivalent) in Economics
+      institution: University of Cologne
+      year: 2019
+    - course: M.Sc. in International Economics and Public Policy
+      institution: JGU Mainz
+      year: 2014
+    - course: B.A. in Financial Management and Services
+      institution: Copenhagen Business Academy
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: true
 ---
+Welcome to my research and teaching page!
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Postdoctoral Researcher at the Institute for Applied Microeconomics (IAME), University of Bonn. Before that, I was a Research Assistant and Doctoral Candidate at the Seminar of Personnel Economics and HRM, University of Cologne.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
