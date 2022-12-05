@@ -5,25 +5,26 @@ bio: My research interests are in the fields of Choice and Decision Theory,
   Behavioral and Experimental Economics, Behavioral Contract Theory and Machine
   Learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Choice and Decision Theory
+  - Behavioral and Experimental Economics
+  - Machine Learning
+  - Behavioral Contract Theory
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=j423pO8AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/armoutihansen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jesper-a-h/
 organizations:
   - name: Institute for Applied Microeconomics, University of Bonn
     url: https://www.econ.uni-bonn.de/iame/en
